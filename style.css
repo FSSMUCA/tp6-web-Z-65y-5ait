@@ -86,3 +86,11 @@ select:hover{
     height: 35px;
     padding-top: 5px;
 }
+
+.container-php{
+    width: 60%;
+    margin: 40px auto;
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+}
